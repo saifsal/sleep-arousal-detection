@@ -1,0 +1,8 @@
+torch==1.9.0+cu102
+torchvision==0.10.0+cu102
+torchaudio===0.9.0
+h5py==2.10.0
+numpy==1.20.3
+scipy==1.6.2
+scikit-learn==0.24.2
+pyedflib==0.1.22
